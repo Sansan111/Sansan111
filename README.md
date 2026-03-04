@@ -49,10 +49,9 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sansan111&show_icons=true&theme=transparent&hide_border=true&title_color=0070f3&icon_color=0070f3" alt="San's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sansan111&layout=compact&theme=transparent&hide_border=true&title_color=0070f3" alt="Top Languages" width="48%" />
-</p>
+[![San's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sansan111&show_icons=true&theme=transparent&hide_border=true&title_color=0070f3&icon_color=0070f3)](https://github.com/Sansan111)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sansan111&layout=compact&theme=transparent&hide_border=true&title_color=0070f3)](https://github.com/Sansan111)
 
 
 ### 📫 Connect with me
