@@ -53,3 +53,18 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Sansan111&show_icons=true&theme=transparent&hide_border=true&title_color=0070f3&icon_color=0070f3" alt="San's GitHub stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sansan111&layout=compact&theme=transparent&hide_border=true&title_color=0070f3" alt="Top Languages" width="48%" />
 </p>
+
+
+### 📫 Connect with me
+
+<p align="left">
+  <a href="https://linkedin.com/in/navathon-limamapar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/shann_hsh" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:shannavathon@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
